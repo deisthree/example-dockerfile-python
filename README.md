@@ -7,7 +7,7 @@ Python applications to [Deis Workflow][].
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-dockerfile-python
+$ git clone https://github.com/deisthree/example-dockerfile-python
 $ cd example-dockerfile-python
 $ deis create
 Creating Application... done, created actual-gatepost
@@ -74,8 +74,8 @@ $ curl http://actual-gatepost.deis.rocks
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
